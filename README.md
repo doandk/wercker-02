@@ -1,1 +1,1 @@
-# wercker-springboot
+# simple-springboot-service
